@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 认真生活，努力工作；无所畏惧，有所敬畏。
 
 <!--
 **BigFaceMaster/BigFaceMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
