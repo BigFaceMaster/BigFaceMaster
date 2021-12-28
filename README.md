@@ -1,4 +1,4 @@
-## Hi, I'm BigFaceMaster~~
+## Hi 🖐, I'm BigFaceMaster ~~
 
 
 * FrontEnd Engineer
@@ -7,5 +7,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigFaceMaster&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMaster&count_private=true&show_icons=true&theme=solarized-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
